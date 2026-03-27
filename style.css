@@ -61,7 +61,6 @@ body {
 }
 
 #resposta {
-  color: #8e44ad;
   font-weight: bold;
   font-size: 26px;
 }
@@ -94,7 +93,6 @@ body {
   }
 
   #resposta {
-    color: #8e44ad;
     font-weight: bold;
     font-size: 1.5rem;
   }
